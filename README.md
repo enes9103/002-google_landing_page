@@ -5,6 +5,7 @@ This project was made for css lesson applications.
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+  ```sh
  install npm@latest -g
   ```
 ### Installation
